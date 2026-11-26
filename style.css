@@ -1,3 +1,7 @@
 body{
     background-color: rgb(73, 153, 150);
 }
+h1{
+    border: red;
+    color: aquamarine;
+}
